@@ -8,5 +8,14 @@
   "devDependencies": {
     "@types/three": "^0.169.0",
     "vite": "^5.4.8"
-  }
+  },
+  "name": "bismillah",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
